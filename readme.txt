@@ -1,2 +1,2 @@
 version 3
-add new branch is simple & fast
+add new branch is simple and fast
